@@ -8,6 +8,7 @@ time="$(date +"%T")"
 if [ "$EUID" -eq 0 ]
  then 
  	echo -e "$txtgrn Checking python3 packages $txtwht"
+  	chmod +x ./build.sh
 	./build.sh
 	echo  -e "$txtgrn $time $txtcyn Changing IP $txtwht"
 	python3 ./torghost.py -s
