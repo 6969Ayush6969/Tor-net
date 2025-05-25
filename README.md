@@ -7,6 +7,6 @@ TorGhost is an anonymization script. TorGhost redirects all internet traffic thr
 `git clone https://github.com/6969Ayush6969/Tornet.git`
 `cd tornet`
 `chmod +x tonet.sh`
-`./tornet.sh`
+`./tornet.sh`\n
 Note:No modification have been made in respective prorgrams.
 
