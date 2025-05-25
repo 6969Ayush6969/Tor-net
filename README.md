@@ -1,8 +1,8 @@
-### TORNET
+# TORNET
 Tornet is a subset of  **TORGHOST AND MACCHANGER** which allows user to surf internet anonymously without the use of TOR(The Onion Router) browser.
-# What is IP Address? 
+### What is IP Address? 
 IP Address is a unique numerical label assigned to a device connected to a computer network using the Internet Protocol. This label helps data packets find their destination on the internet. 
-# What is MAC Address?
+### What is MAC Address?
 A MAC (Media Access Control) address, sometimes referred to as a hardware or physical address, is a unique, 12-character alphanumeric attribute that is used to identify individual electronic devices on a network
 ## What is TorGhost ?
 TorGhost is an anonymization script. TorGhost redirects all internet traffic through SOCKS5 tor proxy. DNS requests are also redirected via tor, thus preventing DNSLeak. The scripts also disables unsafe packets exiting the system. Some packets like ping request can compromise your identity.
