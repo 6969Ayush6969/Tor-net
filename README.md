@@ -1,5 +1,5 @@
 # TORNET
-Tornet is a subset of  **TORGHOST AND MACCHANGER** which allows user to surf internet anonymously without the use of TOR(The Onion Router) browser.
+Tornet is a superset of  **TORGHOST AND MACCHANGER** which allows user to surf internet anonymously without the use of TOR(The Onion Router) browser.
 ### What is IP Address? 
 IP Address is a unique numerical label assigned to a device connected to a computer network using the Internet Protocol. This label helps data packets find their destination on the internet. 
 ### What is MAC Address?
